@@ -1,0 +1,10 @@
+body {
+  font-family: "Courier New", monospace;
+  background-color: #ffffff;
+  margin: 50px;
+  padding: 0;
+}
+span {
+  color: #faa4b2;
+  font-weight: bold;
+}
